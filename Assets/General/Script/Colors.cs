@@ -1,0 +1,9 @@
+﻿/*COLORES HEX:
+
+
+RED: e43f3f
+BLUE: a7cce3
+YELLOW: fbd341
+GREEN: 4cc24a
+
+*/
